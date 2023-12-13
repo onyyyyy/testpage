@@ -14,7 +14,7 @@ const Sub = styled.p`
 export const Home = () => {
   return (
     <Wrap>
-      <Title>하림아 공부하자! 싫어잉</Title>
+      <Title>하림아 공부하자! 해야지</Title>
       <Sub>잠온다 진짜 개많이</Sub>
     </Wrap>
   );
